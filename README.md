@@ -36,7 +36,7 @@ git push origin HEAD
 ```
 
 - ブランチ: [kenkenpa198/tutorial-github-actions at octocat-patch-1](https://github.com/kenkenpa198/tutorial-github-actions/tree/octocat-patch-1)
-- YAML ファイル: [/.github/workflows/github-actions-demo.yml](https://github.com/kenkenpa198/tutorial-github-actions/blob/octocat-patch-1/.github/workflows/github-actions-demo.yml)
+- YAML ファイル: [octocat-patch-1/.github/workflows/github-actions-demo.yml](https://github.com/kenkenpa198/tutorial-github-actions/blob/octocat-patch-1/.github/workflows/github-actions-demo.yml)
 
 上記の操作後、下記内容が実行された。
 
