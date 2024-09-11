@@ -1,4 +1,4 @@
-# Hello World - GitHub Actions
+# Practice - GitHub Actions
 
 - [GitHub Actions のクイックスタート - GitHub Docs](https://docs.github.com/ja/actions/quickstart)
 
